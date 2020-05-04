@@ -1,2 +1,2 @@
-Assignemt1= 'Hello World!'
+Assignment1= 'Hello World!'
 print(Assignment1)
